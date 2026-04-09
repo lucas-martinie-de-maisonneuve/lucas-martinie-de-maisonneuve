@@ -15,7 +15,7 @@
 <td align="center">
 
 <a href="https://github.com/vanny-laure-lamorte/securecloud">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vanny-laure-lamorte&repo=securecloud&theme=tokyonight&v=2"/>
+<img src="https://github-readme-stats-selfhost-lucasmartinie-7694s-projects.vercel.app/api/pin/?username=vanny-laure-lamorte&repo=securecloud&theme=tokyonight&v=2"/>
 </a>
 
 **[SecureCloud](https://github.com/vanny-laure-lamorte/securecloud)**  
@@ -27,7 +27,7 @@
 <td align="center">
 
 <a href="https://github.com/vanny-laure-lamorte/overlook_hotel">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vanny-laure-lamorte&repo=overlook_hotel&theme=tokyonight"/>
+<img src="https://github-readme-stats-selfhost-lucasmartinie-7694s-projects.vercel.app/api/pin/?username=vanny-laure-lamorte&repo=overlook_hotel&theme=tokyonight"/>
 </a>
 
 **[Overlook Hotel](https://github.com/vanny-laure-lamorte/overlook_hotel)**  
@@ -42,7 +42,7 @@
 <td align="center">
 
 <a href="https://github.com/lucas-martinie-de-maisonneuve/myDiscord">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lucas-martinie-de-maisonneuve&repo=myDiscord&theme=tokyonight&v=2"/>
+<img src="https://github-readme-stats-selfhost-lucasmartinie-7694s-projects.vercel.app/api/pin/?username=lucas-martinie-de-maisonneuve&repo=myDiscord&theme=tokyonight&v=2"/>
 </a>
 
 **[Discord](https://github.com/lucas-martinie-de-maisonneuve/myDiscord)**  
@@ -54,7 +54,7 @@
 <td align="center">
 
 <a href="https://github.com/lucas-martinie-de-maisonneuve/budget_buddy">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lucas-martinie-de-maisonneuve&repo=budget_buddy&theme=tokyonight&v=1"/>
+<img src="https://github-readme-stats-selfhost-lucasmartinie-7694s-projects.vercel.app/api/pin/?username=lucas-martinie-de-maisonneuve&repo=budget_buddy&theme=tokyonight&v=1"/>
 </a>
 
 **[Budget Buddy](https://github.com/lucas-martinie-de-maisonneuve/budget_buddy)**  
@@ -70,7 +70,7 @@
 <td align="center">
 
 <a href="https://github.com/lucas-martinie-de-maisonneuve/parking">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lucas-martinie-de-maisonneuve&repo=parking&theme=tokyonight&v=2"/>
+<img src="https://github-readme-stats-selfhost-lucasmartinie-7694s-projects.vercel.app/api/pin/?username=lucas-martinie-de-maisonneuve&repo=parking&theme=tokyonight&v=2"/>
 </a>
 
 **[Parking](https://github.com/lucas-martinie-de-maisonneuve/parking)**  
@@ -82,7 +82,7 @@
 <td align="center">
 
 <a href="https://github.com/lucas-martinie-de-maisonneuve/pokemon">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lucas-martinie-de-maisonneuve&repo=pokemon&theme=tokyonight&v=2"/>
+<img src="https://github-readme-stats-selfhost-lucasmartinie-7694s-projects.vercel.app/api/pin/?username=lucas-martinie-de-maisonneuve&repo=pokemon&theme=tokyonight&v=2"/>
 </a>
 
 **[Pokemon](https://github.com/lucas-martinie-de-maisonneuve/pokemon)**  
@@ -98,7 +98,7 @@
 <td align="center">
 
 <a href="https://github.com/lucas-martinie-de-maisonneuve/fansite">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lucas-martinie-de-maisonneuve&repo=fansite&theme=tokyonight&v=1"/>
+<img src="https://github-readme-stats-selfhost-lucasmartinie-7694s-projects.vercel.app/api/pin/?username=lucas-martinie-de-maisonneuve&repo=fansite&theme=tokyonight&v=1"/>
 </a>
 
 **[Fan Site](https://github.com/lucas-martinie-de-maisonneuve/fansite)**  
@@ -110,7 +110,7 @@
 <td align="center">
 
 <a href="https://github.com/lucas-martinie-de-maisonneuve/clicker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lucas-martinie-de-maisonneuve&repo=clicker&theme=tokyonight&"/>
+<img src="https://github-readme-stats-selfhost-lucasmartinie-7694s-projects.vercel.app/api/pin/?username=lucas-martinie-de-maisonneuve&repo=clicker&theme=tokyonight"/>
 </a>
 
 **[Auto Clicker](https://github.com/lucas-martinie-de-maisonneuve/clicker)**  
@@ -148,7 +148,7 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=lucas-martinie-de-maisonneuve&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-martinie-de-maisonneuve&layout=compact&theme=tokyonight&include_forks=true" />
+<img src="https://github-readme-stats-selfhost-lucasmartinie-7694s-projects.vercel.app/api/top-langs/?username=lucas-martinie-de-maisonneuve&layout=compact&theme=tokyonight&include_forks=true" />
 
 </div>
 
