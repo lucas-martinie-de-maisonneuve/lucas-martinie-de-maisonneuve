@@ -148,7 +148,7 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=lucas-martinie-de-maisonneuve&theme=tokyonight" />
-<img src="https://github-readme-stats-selfhost-lucasmartinie-7694s-projects.vercel.app/api/top-langs/?username=lucas-martinie-de-maisonneuve&layout=compact&theme=tokyonight&include_forks=true" />
+<img src="https://github-readme-stats-selfhost-lucasmartinie-7694s-projects.vercel.app/api/top-langs/?username=lucas-martinie-de-maisonneuve&layout=compact&theme=tokyonight&include_forks=true&hide=C" />
 
 </div>
 
