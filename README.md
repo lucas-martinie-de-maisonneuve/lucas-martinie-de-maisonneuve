@@ -27,7 +27,7 @@
 <td align="center">
 
 <a href="https://github.com/vanny-laure-lamorte/overlook_hotel">
-<img src="https://github-readme-stats-selfhost-lucasmartinie-7694s-projects.vercel.app/api/pin/?username=vanny-laure-lamorte&repo=overlook_hotel&theme=tokyonight"/>
+<img src="https://github-readme-stats-selfhost-lucasmartinie-7694s-projects.vercel.app/api/pin/?username=vanny-laure-lamorte&repo=overlook_hotel&theme=tokyonight&hide=HTML"/>
 </a>
 
 **[Overlook Hotel](https://github.com/vanny-laure-lamorte/overlook_hotel)**  
@@ -148,7 +148,8 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=lucas-martinie-de-maisonneuve&theme=tokyonight" />
-<img src="https://github-readme-stats-selfhost-lucasmartinie-7694s-projects.vercel.app/api/top-langs/?username=lucas-martinie-de-maisonneuve&layout=compact&theme=tokyonight&include_forks=true&hide=C" />
+<img src="https://github-readme-stats-selfhost-lucasmartinie-7694s-projects.vercel.app/api/top-langs/?username=lucas-martinie-de-maisonneuve&layout=compact&theme=tokyonight&include_forks=true&hide=C,Makefile,CMake&v=3" />
+
 
 </div>
 
